@@ -2,3 +2,8 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Novo");
 Console.WriteLine("Hello");
+
+class MyClass
+{
+    string color = "red";
+}
